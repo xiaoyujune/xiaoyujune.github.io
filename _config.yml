@@ -253,6 +253,11 @@ date_format: "%B %-d, %Y"
 # Facebook App ID
 #fb_app_id: ""
 
+#pagination
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "mywritings/page:num"
+
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
