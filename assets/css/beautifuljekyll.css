@@ -977,11 +977,14 @@ pre {
 }
 
 .callout-box {
-  background-color: #F5F5F5;
+  background-color: #FFFFF0;
   padding: 15px;
   border-radius: 15px;
-  border: 1px solid #F5F5F5;
+  border: 1px solid #FFFFF0;
   margin: 20px 0;
+}
+.callout-box p:last-child {
+  margin-bottom: 0;
 }
 
 /* --- Misc blog post styles --- */
