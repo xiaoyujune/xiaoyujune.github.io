@@ -1,4 +1,4 @@
-.page-content {
-  padding-left: 10px;
-  padding-right: 10px;
+main .container {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
 }
