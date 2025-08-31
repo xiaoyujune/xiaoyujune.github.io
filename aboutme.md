@@ -4,15 +4,14 @@ title: Xiaoyu Ma
 ---
 
 
-## Academic Appointments
+### Academic Appointments
 
 - Postdoctoral Research Associate, Civil and Environmental Engineering, Carnegie Mellon University, September 2024 - present
 
 <br>
 <br>
-<br>
 
-## Education
+### Education
 
 - Ph.D., Transportation Engineering, Rensselaer Polytechnic Institute, U.S.
 - M.S., Management Science and Engineering, Nanjing University, China
@@ -20,9 +19,8 @@ title: Xiaoyu Ma
 
 <br>
 <br>
-<br>
 
-## Selected Awards 
+### Selected Awards 
 
 - WTS Helene M. Overly Memorial Scholarship / GNY: Leonard Braun Memorial Scholarship, WTS Great New York, 2023
 - Founders Award of Excellence, RPI, 2022
