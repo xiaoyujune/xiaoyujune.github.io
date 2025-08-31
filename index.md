@@ -2,6 +2,8 @@
 layout: page
 ---
 
+<img src="/assets/img/my_photo2.png" alt="photo" width="250" style="float: right; margin-left: 20px; border-radius: 8px;" />
+
 I am Xiaoyu Ma, a postdoctoral researcher in the Department of Civil and Environmental Engineering at Carnegie Mellon University. 
 Prior to this, I obtained my Ph.D. in Transportation Engineering at Rensselaer Polytechnic Institute. My research interests include: 
 
@@ -11,6 +13,6 @@ Prior to this, I obtained my Ph.D. in Transportation Engineering at Rensselaer P
 
 
 
-I believe that research should be grounded in real-world problems, not blindly driven by trending buzzwords or fashionable tools. 
+***I believe that research should be grounded in real-world problems, not blindly driven by trending buzzwords or fashionable tools. 
 My goal is to uncover fundamental scientific insights, develop innovative methodologies, and generate actionable knowledge that empowers both researchers and practitioners, 
-ultimately improving people’s lives.
+ultimately improving people’s lives.***

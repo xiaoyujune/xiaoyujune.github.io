@@ -23,8 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Research: "Research"
   Service: "Service"
-  My Writings: "mywritings"
-  
+  My Writings: 
+    - Chinese writings: "mywritings"
+
 
 ################
 # --- Logo --- #
