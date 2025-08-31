@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Xiaoyu Ma
+title: Xiaoyu Ma - Home
 
 # Your name to show in the footer
 author: Xiaoyu Ma
@@ -20,7 +20,9 @@ author: Xiaoyu Ma
 ###############################################
 
 navbar-links:
-  #About Me: "aboutme"
+  About Me: "aboutme"
+  Research: "Research"
+  Service: "Service"
   My Writings: "mywritings"
   
 
@@ -30,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/my_photo2.png"
+# avatar: "/assets/img/my_photo2.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -139,10 +141,10 @@ page-col: "#FFF5EE"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#FFE4B5"
+navbar-col: "#FAF0E6"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#FFF5EE" 
+footer-col: "#FAF0E6" 
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
