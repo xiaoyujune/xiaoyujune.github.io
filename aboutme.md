@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Xiaoyu Ma
+title: About Me
 ---
 
 
@@ -9,7 +9,6 @@ title: Xiaoyu Ma
 - Postdoctoral Research Associate, Civil and Environmental Engineering, Carnegie Mellon University, September 2024 - present
 
 <br>
-<br>
 
 ### Education
 
@@ -17,7 +16,6 @@ title: Xiaoyu Ma
 - M.S., Management Science and Engineering, Nanjing University, China
 - B.S., Information Management and Information System, Northeastern University, China 
 
-<br>
 <br>
 
 ### Selected Awards 
