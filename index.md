@@ -5,7 +5,13 @@ layout: page
 
 <img src="/assets/img/IMG_2884_new.JPG" alt="photo" width="200" style="float: left; margin-right: 20px; border-radius: 8px;" />
 
+<div style="text-align: justify;">
 I am Xiaoyu Ma, a postdoctoral researcher in the Department of Civil and Environmental Engineering at Carnegie Mellon University. Before joining CMU, I earned my Ph.D. in Transportation Engineering from Rensselaer Polytechnic Institute. 
+</div>
+
+<br>
+<br>
+<br>
 
 My research interests include: 
 
