@@ -33,11 +33,11 @@ The growing conflict between parking demand and limited curbside space highlight
 </div>
 
 <br>
-### Management of long-term traffic evolution
+### >> Management of long-term traffic evolution
 
 - #### Period-to-period toll adjustment schemes for mixed traffic with time-varying electric vehicle penetration
 
-<img src="/assets/img/research-P2P.png" alt="photo" width="600" style="float: left; margin-right: 20px; border-radius: 28px;" />
+<img src="/assets/img/research-P2P.png" alt="photo" width="500" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
 As electric vehicle (EV) penetration increases, the mixed traffic of EVs and gasoline vehicles (GVs) will be prevalent in roadway systems for a long time. Meanwhile, EV incentive policies, adjusted adaptively as a response to EV market growth, will perturb the mixed traffic pattern periodically. Such periodic perturbation will cause mixed traffic to evolve from disequilibrium to a new equilibrium. This equilibration is theoretically indeterminate due to the non-uniqueness of mixed traffic equilibria and the dynamic interaction between operational policy and underlying mixed traffic. The non-unique mixed-traffic equilibrium in the previous period influences the traffic stationary state and traffic evolution trajectory in the next period, which is also non-unique. Thereby, the indeterminacy in the equilibration process affects the long-term mixed traffic performance that should be factored into the period-to-period adjustment of EV incentive policies. This effect calls for the study of mixed traffic equilibration as a theoretical foundation for longterm policymaking, which has not received significant attention. This paper explores the properties of mixed traffic equilibria and proposes a mixed traffic evolution model considering timevarying EV penetration. The mixed traffic evolution model is then integrated into a control framework to support the period-to-period adjustment of EV-promoting tolling policy. Numerical
@@ -46,14 +46,13 @@ examples illustrate the effects of non-unique mixed traffic equilibria and perio
 
 - #### A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium
 
-<img src="/assets/img/research-d2dBUE.png" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 28px;" />
+<img src="/assets/img/research-d2dBUE.jpg" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
 Travel time and monetary cost are the two important factors influencing travelers’ route choice behavior. Rather than combining them together as a single objective, a bi-objective user equilibrium (BUE) has been recently proposed in which travelers consider the two objectives separately. It has been shown that BUE can explain more possible route choice results in reality. Therefore, regarding the BUE state as the final steady state of traffic flow evolution, this study develops a BUE-based day-to-day dynamic model by introducing BUE into the well-known proportional-switch adjustment process (PSAP). The equivalence between the steady state of the evolution process of BUE-PSAP and a BUE state, as well as the convergence of the BUE-PSAP are proved. Moreover, a dynamic pricing scheme is proposed to reduce the system total travel time and shrink the BUE solution set. Numerical examples are conducted to validate the proposed dynamic model and the pricing scheme. <a href="https://www.tandfonline.com/doi/full/10.1080/21680566.2020.1851311">Read More</a>
 </div>
 
 <br>
-
 
 ### Journal Publications
 
@@ -63,6 +62,38 @@ Travel time and monetary cost are the two important factors influencing traveler
 - **Ma, X.** and He, X., 2021. Period-to-period toll adjustment schemes for mixed traffic with time-varying electric vehicle penetration. **Transportation Research Part C: Emerging Technologies**, 129, p.103237.
 - **Ma, X.**, Xu, W. and Chen, C., 2021. A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium. **Transportmetrica B: Transport Dynamics**, 9(1), pp.283-302.
 - Xu, W., **Ma, X.**, and Xu, H., 2020. A day-to-day dynamic model of traffic flows with bi-objective user equilibrium. **Journal of Management Science and Engineering**, 23(7), pp.116-126.
+
+<br>
+
+### Conference Presentations
+
+- Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement
+learning approach. *The 25th International Symposium on Transportation and Traffic Theory (ISTTT 25)*, Ann Arbor,
+MI, 2024.
+- Correlated CAV en-route routing for congestion mitigation: a two-way deep reinforcement learning
+framework. *Transportation Research Board Annual Meeting*, Washington DC, 2024.
+- Optimizing on-street parking allocation for multiple users considering double parking impacts. *Transportation
+Research Board Annual Meeting*, Washington DC, 2024.
+- Enhancing bus arrival time prediction with a machine-learning-based Markov process approach. *INFORMS
+Annual Meeting*, Phoenix, AZ, 2023.
+- Optimal multi-user on-street parking allocation for large cities. *New York State Association of MPOs Conference*,
+Syracuse, NY, 2023.
+- Optimal on-street parking space allocation for passenger and commercial vehicles. *INFORMS Annual Meeting*,
+Indianapolis, IN, 2022.
+- Within-day dynamic traffic equilibrium with heterogeneous information considering strategic forecasting of
+travel time. *Bridging Transport Researchers (4th BTR)*, online, 2022.
+- Within-day dynamic traffic assignment for multi-class travelers with instantaneous and forecast information.
+*Transportation Research Board Annual Meeting*, Washington DC, 2022.
+- Who are the beneficiaries of predictive travel information? Modeling dynamic stochastic user equilibrium
+with diverse pre-trip information. *INFORMS Annual Meeting*, Anaheim (hybrid), CA, 2021.
+- Period-to-period tolling scheme for mixed traffic of electric and gasoline vehicles with time-varying flow
+composition. *Transportation Research Board Annual Meeting*, virtual, 2021.
+- Period-to-period tolling scheme for mixed traffic of electric and gasoline vehicles with time-varying flow
+composition. *INFORMS Annual Meeting*, virtual, 2020.
+- Multi-class traffic evolution model for electric and gasoline vehicles with bi-objective path choice behavior.
+*Transportation Research Board Annual Meeting*, Washington DC, 2020.
+- A day-to-day dynamic model of traffic flows with bi-objective user equilibrium. *The 7th international research
+conference on systems engineering and management science*, Nanjing, China, 2019.
 
 
 
