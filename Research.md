@@ -45,7 +45,7 @@ As electric vehicle (EV) penetration increases, the mixed traffic of EVs and gas
 
 - #### A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium
 
-<img src="/assets/img/research-d2dBUE.jpg" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 28px;" />
+<img src="/assets/img/research-d2dBUE.jpg" alt="photo" width="300" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
 Travel time and monetary cost are the two important factors influencing travelers’ route choice behavior. Rather than combining them together as a single objective, a bi-objective user equilibrium (BUE) has been proposed in which travelers consider the two objectives separately. It has been shown that BUE can explain more possible route choice results in reality. This research develops a BUE-based day-to-day dynamic model by introducing BUE into the well-known proportional-switch adjustment process (PSAP). The equivalence between the steady state of the evolution process of BUE-PSAP and a BUE state, as well as the convergence of the BUE-PSAP are proved. Moreover, a dynamic pricing scheme is proposed to reduce the system total travel time and shrink the BUE solution set containing non-unique solutions. This research contributes to the modeling of traffic evolution by providing greater explainability of real-world travel behaviors. <a href="https://www.tandfonline.com/doi/full/10.1080/21680566.2020.1851311">Read More</a>
