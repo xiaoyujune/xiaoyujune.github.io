@@ -1,4 +1,5 @@
-main.container-md > .row > div {
-  padding-left: 40px;
-  padding-right: 40px;
+main.container-fluid > .row > .col {
+  margin-left: 5%;
+  margin-right: 5%;
 }
+
