@@ -9,7 +9,7 @@ title: Service
 - **President**, Women’s Transportation Seminar (WTS International) RPI Student Chapter, 2023 - 2024
 - **Founding President**, Institute of Transportation Engineers (ITE) RPI Student Chapter, 2024 Spring - Summer
 - **Communications Chair**, Women’s Transportation Seminar (WTS International) RPI Student Chapter, 2022 - 2023
-- **Vice President**, Graduate Student Council, School of Management and Engineering, NJU, 2017 - 2018
+- **Vice President**, Graduate Student Council, School of Management and Engineering, NJU, 2018
 
 <br>
 

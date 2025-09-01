@@ -92,7 +92,7 @@ composition. *INFORMS Annual Meeting*, virtual, 2020.
 - Multi-class traffic evolution model for electric and gasoline vehicles with bi-objective path choice behavior.
 *Transportation Research Board Annual Meeting*, Washington DC, 2020.
 - A day-to-day dynamic model of traffic flows with bi-objective user equilibrium. *The 7th international research
-conference on systems engineering and management science*, Nanjing, China, 2019.
+conference on systems engineering and management science*, Nanjing, 2019.
 
 
 
