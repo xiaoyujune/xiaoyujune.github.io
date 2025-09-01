@@ -71,8 +71,8 @@ The growing conflict between parking demand and limited curbside space highlight
 <div style="text-align: justify;">
 As electric vehicle (EV) penetration increases, the mixed traffic of EVs and gasoline vehicles (GVs) will be prevalent in roadway systems for a long time. Meanwhile, the periodic EV market growth will cause mixed traffic to evolve from disequilibrium to a new equilibrium. This equilibration is theoretically indeterminate due to the non-uniqueness of mixed traffic equilibria and the dynamic interaction between operational policy and underlying mixed traffic. Such indeterminacy affects the long-term mixed traffic performance that should be factored into the period-to-period adjustment of EV related policies. This research explores the properties of mixed traffic equilibria and proposes a mixed traffic evolution model considering timevarying EV penetration. The model is then integrated into a control framework to support the period-to-period adjustment of EV-promoting tolling policy for achieving long-term system-level goals.
 </div>
-
-- <strong style="margin-top: 20px; display: inline-block;">A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium</strong><br>
+<div style="height: 20px;"></div>
+- <strong>A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium</strong><br>
   <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
     <strong>Ma, X.</strong>, Xu, W. and Chen, C., 2021. Transportmetrica B: Transport Dynamics <a href="https://www.tandfonline.com/doi/full/10.1080/21680566.2020.1851311">[Paper]</a>
   </span>
