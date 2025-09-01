@@ -7,8 +7,8 @@ title: Research
 
 - #### Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach
 
-<img src="/assets/img/research-isttt25-1.jpg" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 20px;" />
-<img src="/assets/img/research-isttt25-21.jpg" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 20px;" />
+<img src="/assets/img/research-isttt25-1.jpg" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 25px;" />
+<img src="/assets/img/research-isttt25-2.jpg" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 25px;" />
 
 <div style="text-align: justify;">
 This research investigates the effectiveness of information provision for congestion reduction in Connected Autonomous Vehicle (CAV) systems. It proposes a reinforcement learning framework involving CAVs and an information provider, where CAVs conduct real-time learning to minimize their individual travel time, while the information provider offers real-time route suggestions aiming to minimize the system’s total travel time. The routing problem of the CAVs is formulated as a Markov game and the information provision problem is formulated as a single-agent Markov decision process. Then, this research develops a customized two-way deep reinforcement learning approach to solve the interrelated problems. Theoretical analysis rigorously proves the realization of Correlated Equilibrium (CE) and that the proposed framework can effectively mitigate congestion without compromising individual user optimality. This research contributes to the advancement of congestion reduction strategies in CAV systems with the mitigation of the conflict between system-level and individual-level goals using CE as a theoretical foundation. The results highlight the potential of information provision in fostering coordination and correlation among CAVs, thereby enhancing traffic efficiency and achieving system-level goals in smart transportation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383">Read More</a>
