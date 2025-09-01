@@ -10,6 +10,15 @@ title: Research
 <img src="/assets/img/research-isttt25-1.jpg" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 28px;" />
 <img src="/assets/img/research-isttt25-2.jpg" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
+<!-- Carousel 1 -->
+<div id="carousel1" class="carousel-container">
+  <img src="/assets/img/research-isttt25-1.jpg" class="carousel-img" style="width: 400; height: 300; object-fit: cover; float: left; margin-right: 20px; border-radius: 28px;">
+  <img src="/assets/img/research-isttt25-2.jpg" class="carousel-img" style="width: 400; height: 300; object-fit: cover; float: left; margin-right: 20px; border-radius: 28px; display: none;">
+  <button onclick="plusImage(1, 'carousel-img1')">❯</button>
+  <button onclick="plusImage(-1, 'carousel-img1')">❮</button>
+</div>
+
+
 <div style="text-align: justify;">
 This research investigates the effectiveness of information provision for congestion reduction in Connected Autonomous Vehicle (CAV) systems. It proposes a reinforcement learning framework involving CAVs and an information provider, where CAVs conduct real-time learning to minimize their individual travel time, while the information provider offers real-time route suggestions aiming to minimize the system’s total travel time. The routing problem of the CAVs is formulated as a Markov game and the information provision problem is formulated as a single-agent Markov decision process. Then, this research develops a customized two-way deep reinforcement learning approach to solve the interrelated problems. Theoretical analysis rigorously proves the realization of Correlated Equilibrium (CE) and that the proposed framework can effectively mitigate congestion without compromising individual user optimality. This research contributes to the advancement of congestion reduction strategies in CAV systems with the mitigation of the conflict between system-level and individual-level goals using CE as a theoretical foundation. The results highlight the potential of information provision in fostering coordination and correlation among CAVs, thereby enhancing traffic efficiency and achieving system-level goals in smart transportation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383">Read More</a>
 </div>
@@ -23,26 +32,7 @@ This research investigates the effectiveness of information provision for conges
   <button onclick="plusImage(1)" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); background-color: rgba(0,0,0,0.3); color: white; border: none; font-size: 2rem; padding: 0 10px;">❯</button>
 </div>
 
-<script>
-  let imgIndex = 0;
-  const imgs = document.getElementsByClassName('carousel-img');
 
-  function showImage(index) {
-    for (let i = 0; i < imgs.length; i++) {
-      imgs[i].style.display = 'none';
-    }
-    imgs[index].style.display = 'block';
-  }
-
-  function plusImage(n) {
-    imgIndex = (imgIndex + n + imgs.length) % imgs.length;
-    showImage(imgIndex);
-  }
-
-  document.addEventListener("DOMContentLoaded", function() {
-    showImage(imgIndex);
-  });
-</script>
 
 
 ### Optimization of urban infrastructure
@@ -51,6 +41,36 @@ This research investigates the effectiveness of information provision for conges
 ### Management of long-term traffic evolution
 
 
+<script>
+  const imgIndices = {};  // Track index per carousel class
+
+  function showImage(index, className) {
+    const imgs = document.getElementsByClassName(className);
+    for (let i = 0; i < imgs.length; i++) {
+      imgs[i].style.display = 'none';
+    }
+    imgs[index].style.display = 'block';
+  }
+
+  function plusImage(n, className) {
+    if (!(className in imgIndices)) {
+      imgIndices[className] = 0;
+    }
+    const imgs = document.getElementsByClassName(className);
+    const newIndex = (imgIndices[className] + n + imgs.length) % imgs.length;
+    imgIndices[className] = newIndex;
+    showImage(newIndex, className);
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    // Initialize all carousels
+    const allClasses = ['carousel-img1', 'carousel-img2'];
+    allClasses.forEach(cls => {
+      imgIndices[cls] = 0;
+      showImage(0, cls);
+    });
+  });
+</script>
 
 
 
