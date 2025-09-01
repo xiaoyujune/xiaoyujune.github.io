@@ -1,18 +1,18 @@
 
 @media (min-width: 768px) {
   .container-md {
-    max-width: 1800px;
+    max-width: 1600px;
   }
 }
 
 @media (min-width: 992px) {
   .container-lg {
-    max-width: 1800px;
+    max-width: 1600px;
   }
 }
 
 @media (min-width: 1200px) {
   .container-xl {
-    max-width: 1800px;
+    max-width: 1600px;
   }
 }
