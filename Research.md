@@ -3,10 +3,12 @@ layout: page
 title: Research
 ---
 
-### >> Advancement of multimodal transportation systems
+### >>> Advancement of multimodal transportation systems
 
-- #### Joint estimation of dynamic O-D demand and choice models for dynamic multi-modal networks: computational graphs with hypothesis tests
-<p style="margin-top: -10px; font-size: 0.9rem;">**Ma, X.** and Qian, S. (Under review with ISTTT26)</p>
+- <strong>Joint estimation of dynamic O-D demand and choice models for dynamic multi-modal networks: computational graphs with hypothesis tests</strong><br>
+  <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
+    <strong>Ma, X.</strong> and Qian, S. (Under review with ISTTT26)
+  </span>
 
 <img src="/assets/img/research-dode.png" alt="photo" width="350" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
@@ -14,16 +16,12 @@ title: Research
 This research use system-level data (such as traffic counts, probe speeds, and transit ridership) to infer travel choices varying by time of day, origin/destination location and mode. A joint estimation framework for dynamic origin–destination (O-D) demand and disutility functions within a multi-modal transportation system is proposed. It integrates system-level data from multiple sources into a dynamic traffic assignment model that captures both route and mode choices across car, bus, metro, and park-and-ride options. Alternative-specific and individual-specific factors are incorporated into hierarchical disutility functions to reflect heterogeneous traveler perceptions. The estimation problem is formulated and solved based on a generic computational graph, allowing for dynamic network modeling and scalable inference across large-scale networks and generic data sets. Furthermore, the research provides a hypothesis testing framework for analyzing statistical significance of behavioral parameters, enabling model selection and statistical insights.
 </div>
 
-### >> Intelligent traffic information provision for system-level goals
-
-- #### Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach
-<p style="margin-top: -10px; font-size: 0.9rem;">**Ma, X.** and He, X., 2024. Transportation Research Part B: Methodological (ISTTT25) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383">[Paper]</a></p>
+### >>> Intelligent traffic information provision for system-level goals
 
 - <strong>Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach</strong><br>
   <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
     <strong>Ma, X.</strong> and He, X., 2024. Transportation Research Part B: Methodological (ISTTT25) <a href="[URL_TO_YOUR_PAPER](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383)">[Paper]</a>
   </span>
-
 
 <img src="/assets/img/research-isttt25-1.jpg" alt="photo" width="350" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
@@ -31,8 +29,10 @@ This research use system-level data (such as traffic counts, probe speeds, and t
 This research investigates the effectiveness of information provision for congestion reduction in Connected Autonomous Vehicle (CAV) systems. It proposes a reinforcement learning framework involving CAVs and an information provider, where CAVs conduct real-time learning to minimize their individual travel time, while the information provider offers real-time route suggestions aiming to minimize the system’s total travel time. The routing problem of the CAVs is formulated as a Markov game and the information provision problem is formulated as a single-agent Markov decision process. A customized two-way deep reinforcement learning approach is developed to solve the problem. Theoretical analysis rigorously proves the realization of Correlated Equilibrium (CE) and that the proposed framework can effectively mitigate congestion without compromising individual user optimality. The results highlight the potential of information provision in fostering coordination among CAVs and achieving system-level goals in smart transportation.
 </div>
 
-- #### Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information
-**Ma, X.** and He, X., 2025. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002736">[Paper]</a>
+- <strong>Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information</strong><br>
+  <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
+    <strong>Ma, X.</strong> and He, X., 2025. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002736">[Paper]</a>
+  </span>
 
 <img src="/assets/img/research-multiclass info.jpg" alt="photo" width="300" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
@@ -41,10 +41,13 @@ This research proposes a within-day dynamic traffic equilibrium model that expli
 </div>
 
 <br>
-### >> Optimization of urban infrastructure
 
-- #### Optimal on-street parking space allocation for freight, service, and passenger vehicles
-**Ma, X.**, He, X., and Holguin-Veras, J., 2025. Transportmetrica A: Transport Science <a href="https://www.tandfonline.com/doi/abs/10.1080/23249935.2025.2498671">[Paper]</a>
+### >>> Optimization of urban infrastructure
+
+- <strong>Optimal on-street parking space allocation for freight, service, and passenger vehicles</strong><br>
+  <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
+    <strong>Ma, X.</strong>, He, X., and Holguin-Veras, J., 2025. Transportmetrica A: Transport Science <a href="https://www.tandfonline.com/doi/abs/10.1080/23249935.2025.2498671">[Paper]</a>
+  </span>
 
 <img src="/assets/img/research-parking.png" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
@@ -53,10 +56,13 @@ The growing conflict between parking demand and limited curbside space highlight
 </div>
 
 <br>
-### >> Management of long-term traffic evolution
 
-- #### Period-to-period toll adjustment schemes for mixed traffic with time-varying electric vehicle penetration
-**Ma, X.** and He, X., 2021. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/pii/S0968090X21002503">[Paper]</a>
+### >>> Management of long-term traffic evolution
+
+- <strong>Period-to-period toll adjustment schemes for mixed traffic with time-varying electric vehicle penetration</strong><br>
+  <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
+    <strong>Ma, X.</strong> and He, X., 2021. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/pii/S0968090X21002503">[Paper]</a>
+  </span>
 
 <img src="/assets/img/research-P2P.png" alt="photo" width="500" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
@@ -64,8 +70,10 @@ The growing conflict between parking demand and limited curbside space highlight
 As electric vehicle (EV) penetration increases, the mixed traffic of EVs and gasoline vehicles (GVs) will be prevalent in roadway systems for a long time. Meanwhile, the periodic EV market growth will cause mixed traffic to evolve from disequilibrium to a new equilibrium. This equilibration is theoretically indeterminate due to the non-uniqueness of mixed traffic equilibria and the dynamic interaction between operational policy and underlying mixed traffic. Such indeterminacy affects the long-term mixed traffic performance that should be factored into the period-to-period adjustment of EV related policies. This research explores the properties of mixed traffic equilibria and proposes a mixed traffic evolution model considering timevarying EV penetration. The model is then integrated into a control framework to support the period-to-period adjustment of EV-promoting tolling policy for achieving long-term system-level goals.
 </div>
 
-- #### A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium
-**Ma, X.**, Xu, W. and Chen, C., 2021. Transportmetrica B: Transport Dynamics <a href="https://www.tandfonline.com/doi/full/10.1080/21680566.2020.1851311">[Paper]</a>
+- <strong>A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium</strong><br>
+  <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
+    <strong>Ma, X.</strong>, Xu, W. and Chen, C., 2021. Transportmetrica B: Transport Dynamics <a href="https://www.tandfonline.com/doi/full/10.1080/21680566.2020.1851311">[Paper]</a>
+  </span>
 
 <img src="/assets/img/research-d2dBUE.jpg" alt="photo" width="300" style="float: left; margin-right: 20px; border-radius: 28px;" />
 

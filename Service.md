@@ -38,6 +38,7 @@ title: Service
 
 ### Others 
 
+- Production Editor, INFORMS OR/MS Tomorrow Magazine, 2023 - 2024
 - Judge, INFORMS OR/MS Tomorrow Poster Competition, 2023
 
 
