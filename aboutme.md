@@ -20,7 +20,7 @@ title: About Me
 
 ### Selected Awards 
 
-- WTS Helene M. Overly Memorial Scholarship / GNY: Leonard Braun Memorial Scholarship, WTS Great New York, 2023
+- WTS Helene M. Overly Memorial Scholarship / GNY: Leonard Braun Memorial Scholarship, WTS Greater New York Chapter, 2023
 - Founders Award of Excellence, RPI, 2022
 - Belsky Award for Computational Sciences and Engineering, RPI, 2021
 - Outstanding Master’s Thesis (Provincial), 2021
