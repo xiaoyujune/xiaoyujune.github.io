@@ -19,6 +19,12 @@ This research use system-level data (such as traffic counts, probe speeds, and t
 - #### Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach
 <p style="margin-top: -10px; font-size: 0.9rem;">**Ma, X.** and He, X., 2024. Transportation Research Part B: Methodological (ISTTT25) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383">[Paper]</a></p>
 
+- <strong>Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach</strong><br>
+  <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
+    <strong>Ma, X.</strong> and He, X., 2024. Transportation Research Part B: Methodological (ISTTT25) <a href="[URL_TO_YOUR_PAPER](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383)">[Paper]</a>
+  </span>
+
+
 <img src="/assets/img/research-isttt25-1.jpg" alt="photo" width="350" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
