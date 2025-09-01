@@ -3,3 +3,7 @@ main.container-md > .row > div {
   padding-left: 0px !important;
   padding-right: 0px !important;
 }
+
+.container {
+  max-width: 2000px !important;
+}
