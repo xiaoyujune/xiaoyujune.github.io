@@ -5,7 +5,7 @@ title: Research
 
 ### >> Advancement of multimodal transportation systems
 
-- **Joint estimation of dynamic O-D demand and choice models for dynamic multi-modal networks: computational graphs with hypothesis tests**
+- <strong>Joint estimation of dynamic O-D demand and choice models for dynamic multi-modal networks: computational graphs with hypothesis tests</strong><br>
   <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
     <strong>Ma, X.</strong> and Qian, S. (Under review with ISTTT26)
   </span>
@@ -20,7 +20,7 @@ This research uses system-level data (such as traffic counts, probe speeds, and 
 
 ### >> Intelligent traffic information provision for system-level goals
 
-- **Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach**
+- <strong>Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach</strong><br>
   <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
     <strong>Ma, X.</strong> and He, X., 2024. Transportation Research Part B: Methodological (ISTTT25) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383">[Paper]</a>
   </span>
@@ -31,7 +31,8 @@ This research uses system-level data (such as traffic counts, probe speeds, and 
 This research investigates the effectiveness of information provision for congestion reduction in Connected Autonomous Vehicle (CAV) systems. It proposes a reinforcement learning framework involving CAVs and an information provider, where CAVs conduct real-time learning to minimize their individual travel time, while the information provider offers real-time route suggestions aiming to minimize the system’s total travel time. The routing problem of the CAVs is formulated as a Markov game and the information provision problem is formulated as a single-agent Markov decision process. A customized two-way deep reinforcement learning approach is developed to solve the problem. Theoretical analysis rigorously proves the realization of Correlated Equilibrium (CE) and that the proposed framework can effectively mitigate congestion without compromising individual user optimality. The results highlight the potential of information provision in fostering coordination among CAVs and achieving system-level goals in smart transportation.
 </div>
 
-- **Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information**  
+<br><span style="margin-top: -8px; display: inline-block;"></span>
+- <strong>Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information</strong><br>  
   <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
     <strong>Ma, X.</strong> and He, X., 2025. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002736">[Paper]</a>
   </span>
@@ -46,7 +47,7 @@ This research proposes a within-day dynamic traffic equilibrium model that expli
 
 ### >> Optimization of urban infrastructure
 
-- **Optimal on-street parking space allocation for freight, service, and passenger vehicles**
+- <strong>Optimal on-street parking space allocation for freight, service, and passenger vehicles</strong><br>
   <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
     <strong>Ma, X.</strong>, He, X., and Holguin-Veras, J., 2025. Transportmetrica A: Transport Science <a href="https://www.tandfonline.com/doi/abs/10.1080/23249935.2025.2498671">[Paper]</a>
   </span>
