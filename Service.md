@@ -11,9 +11,7 @@ title: Service
 - **Communications Chair**, Women’s Transportation Seminar (WTS International) RPI Student Chapter, 2022 - 2023
 - **Vice President**, Graduate Student Council, School of Management and Engineering, NJU, 2017 - 2018
 
-
 <br>
-
 
 ### Referee for Journals and Conferences 
 
@@ -30,9 +28,13 @@ title: Service
 - International Transport Forum Summit
 - Modeling, Estimation, and Control Conference (MECC)
 
+<br>
+
 ### Referee for Research Proposals 
 
 - California State University Transportation Consortium program, Mineta Transportation Institute, 2024
+
+<br>
 
 ### Others 
 

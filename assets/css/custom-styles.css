@@ -1,5 +1,5 @@
 main.container-md > .row > div {
   max-width: 2400px !important;
-  padding-left: 10px !important; 
-  padding-right: 10px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
 }

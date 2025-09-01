@@ -12,9 +12,9 @@ title: About Me
 
 ### Education
 
-- Ph.D., Transportation Engineering, Rensselaer Polytechnic Institute, U.S.
-- M.S., Management Science and Engineering, Nanjing University, China
-- B.S., Information Management and Information System, Northeastern University, China 
+- **Ph.D.**, Transportation Engineering, Rensselaer Polytechnic Institute, U.S.
+- **M.S.**, Management Science and Engineering, Nanjing University, China
+- **B.S.**, Information Management and Information System, Northeastern University, China 
 
 <br>
 
