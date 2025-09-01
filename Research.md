@@ -24,6 +24,8 @@ This paper proposes a within-day dynamic traffic equilibrium model that explicit
 <br>
 ### >> Optimization of urban infrastructure
 
+- #### Optimal on-street parking space allocation for freight, service, and passenger vehicles
+
 <img src="/assets/img/research-parking.png" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
@@ -33,8 +35,24 @@ The growing conflict between parking demand and limited curbside space highlight
 <br>
 ### Management of long-term traffic evolution
 
+- #### Period-to-period toll adjustment schemes for mixed traffic with time-varying electric vehicle penetration
 
+<img src="/assets/img/research-P2P.png" alt="photo" width="600" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
+<div style="text-align: justify;">
+As electric vehicle (EV) penetration increases, the mixed traffic of EVs and gasoline vehicles (GVs) will be prevalent in roadway systems for a long time. Meanwhile, EV incentive policies, adjusted adaptively as a response to EV market growth, will perturb the mixed traffic pattern periodically. Such periodic perturbation will cause mixed traffic to evolve from disequilibrium to a new equilibrium. This equilibration is theoretically indeterminate due to the non-uniqueness of mixed traffic equilibria and the dynamic interaction between operational policy and underlying mixed traffic. The non-unique mixed-traffic equilibrium in the previous period influences the traffic stationary state and traffic evolution trajectory in the next period, which is also non-unique. Thereby, the indeterminacy in the equilibration process affects the long-term mixed traffic performance that should be factored into the period-to-period adjustment of EV incentive policies. This effect calls for the study of mixed traffic equilibration as a theoretical foundation for longterm policymaking, which has not received significant attention. This paper explores the properties of mixed traffic equilibria and proposes a mixed traffic evolution model considering timevarying EV penetration. The mixed traffic evolution model is then integrated into a control framework to support the period-to-period adjustment of EV-promoting tolling policy. Numerical
+examples illustrate the effects of non-unique mixed traffic equilibria and period-to-period toll adjustment schemes on long-term mixed traffic performance. <a href="">Read More</a>
+</div>
+
+- #### A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium
+
+<img src="/assets/img/research-d2dBUE.png" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 28px;" />
+
+<div style="text-align: justify;">
+Travel time and monetary cost are the two important factors influencing travelers’ route choice behavior. Rather than combining them together as a single objective, a bi-objective user equilibrium (BUE) has been recently proposed in which travelers consider the two objectives separately. It has been shown that BUE can explain more possible route choice results in reality. Therefore, regarding the BUE state as the final steady state of traffic flow evolution, this study develops a BUE-based day-to-day dynamic model by introducing BUE into the well-known proportional-switch adjustment process (PSAP). The equivalence between the steady state of the evolution process of BUE-PSAP and a BUE state, as well as the convergence of the BUE-PSAP are proved. Moreover, a dynamic pricing scheme is proposed to reduce the system total travel time and shrink the BUE solution set. Numerical examples are conducted to validate the proposed dynamic model and the pricing scheme. <a href="https://www.tandfonline.com/doi/full/10.1080/21680566.2020.1851311">Read More</a>
+</div>
+
+<br>
 
 
 ### Journal Publications
@@ -42,12 +60,9 @@ The growing conflict between parking demand and limited curbside space highlight
 - **Ma, X.** and He, X., 2025. Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information. **Transportation Research Part C: Emerging Technologies**, 178, p.105269.
 - **Ma, X.**, He, X. and Holguin-Veras, J., 2025. Optimal on-street parking space allocation for freight, service, and passenger vehicles. **Transportmetrica A: Transport Science**, pp.1-31.
 - **Ma, X.** and He, X., 2024. Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. **Transportation Research Part B: Methodological**, 189, p.103014. (***ISTTT25*** Conference paper)
-- **Ma, X.** and He, X., 2021. [Period-to-period toll adjustment schemes for mixed traffic with time-varying electric vehicle penetration](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21002503). **Transportation Research Part C: Emerging Technologies**, 129, p.103237.
+- **Ma, X.** and He, X., 2021. Period-to-period toll adjustment schemes for mixed traffic with time-varying electric vehicle penetration. **Transportation Research Part C: Emerging Technologies**, 129, p.103237.
 - **Ma, X.**, Xu, W. and Chen, C., 2021. A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium. **Transportmetrica B: Transport Dynamics**, 9(1), pp.283-302.
 - Xu, W., **Ma, X.**, and Xu, H., 2020. A day-to-day dynamic model of traffic flows with bi-objective user equilibrium. **Journal of Management Science and Engineering**, 23(7), pp.116-126.
-
-
-<br>
 
 
 
