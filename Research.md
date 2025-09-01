@@ -31,10 +31,22 @@ This research uses system-level data (such as traffic counts, probe speeds, and 
 This research investigates the effectiveness of information provision for congestion reduction in Connected Autonomous Vehicle (CAV) systems. It proposes a reinforcement learning framework involving CAVs and an information provider, where CAVs conduct real-time learning to minimize their individual travel time, while the information provider offers real-time route suggestions aiming to minimize the system’s total travel time. The routing problem of the CAVs is formulated as a Markov game and the information provision problem is formulated as a single-agent Markov decision process. A customized two-way deep reinforcement learning approach is developed to solve the problem. Theoretical analysis rigorously proves the realization of Correlated Equilibrium (CE) and that the proposed framework can effectively mitigate congestion without compromising individual user optimality. The results highlight the potential of information provision in fostering coordination among CAVs and achieving system-level goals in smart transportation.
 </div>
 
-- <strong style="margin-top: 20px; display: inline-block;">Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information</strong><br>
+&nbsp;
+
+- <strong>Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information</strong><br>
   <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
     <strong>Ma, X.</strong> and He, X., 2025. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002736">[Paper]</a>
   </span>
+
+- **Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information**  
+  <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
+    <strong>Ma, X.</strong> and He, X., 2025. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002736">[Paper]</a>
+  </span>
+
+&nbsp;
+
+- **Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information**  
+  **Ma, X.** and He, X., 2025. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002736">[Paper]</a>
 
 <img src="/assets/img/research-multiclass info.jpg" alt="photo" width="300" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
