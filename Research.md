@@ -3,52 +3,68 @@ layout: page
 title: Research
 ---
 
+### >> Advancement of multimodal transportation systems
+
+- #### Joint estimation of dynamic O-D demand and choice models for dynamic multi-modal networks: computational graphs with hypothesis tests
+**Ma, X.** and Qian, S. (Under review with ISTTT26)
+
+<img src="/assets/img/research-dode.png" alt="photo" width="350" style="float: left; margin-right: 20px; border-radius: 28px;" />
+
+<div style="text-align: justify;">
+This research use system-level data (such as traffic counts, probe speeds, and transit ridership) to infer travel choices varying by time of day, origin/destination location and mode. A joint estimation framework for dynamic origin–destination (O-D) demand and disutility functions within a multi-modal transportation system is proposed. It integrates system-level data from multiple sources into a dynamic traffic assignment model that captures both route and mode choices across car, bus, metro, and park-and-ride options. Alternative-specific and individual-specific factors are incorporated into hierarchical disutility functions to reflect heterogeneous traveler perceptions. The estimation problem is formulated and solved based on a generic computational graph, allowing for dynamic network modeling and scalable inference across large-scale networks and generic data sets. Furthermore, the research provides a hypothesis testing framework for analyzing statistical significance of behavioral parameters, enabling model selection and statistical insights.
+</div>
+
 ### >> Intelligent traffic information provision for system-level goals
 
 - #### Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach
+**Ma, X.** and He, X., 2024. Transportation Research Part B: Methodological (ISTTT25) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383">[Paper]</a>
 
 <img src="/assets/img/research-isttt25-1.jpg" alt="photo" width="350" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
-This research investigates the effectiveness of information provision for congestion reduction in Connected Autonomous Vehicle (CAV) systems. It proposes a reinforcement learning framework involving CAVs and an information provider, where CAVs conduct real-time learning to minimize their individual travel time, while the information provider offers real-time route suggestions aiming to minimize the system’s total travel time. The routing problem of the CAVs is formulated as a Markov game and the information provision problem is formulated as a single-agent Markov decision process. A customized two-way deep reinforcement learning approach is developed to solve the problem. Theoretical analysis rigorously proves the realization of Correlated Equilibrium (CE) and that the proposed framework can effectively mitigate congestion without compromising individual user optimality. The results highlight the potential of information provision in fostering coordination among CAVs and achieving system-level goals in smart transportation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383">Read More</a>
+This research investigates the effectiveness of information provision for congestion reduction in Connected Autonomous Vehicle (CAV) systems. It proposes a reinforcement learning framework involving CAVs and an information provider, where CAVs conduct real-time learning to minimize their individual travel time, while the information provider offers real-time route suggestions aiming to minimize the system’s total travel time. The routing problem of the CAVs is formulated as a Markov game and the information provision problem is formulated as a single-agent Markov decision process. A customized two-way deep reinforcement learning approach is developed to solve the problem. Theoretical analysis rigorously proves the realization of Correlated Equilibrium (CE) and that the proposed framework can effectively mitigate congestion without compromising individual user optimality. The results highlight the potential of information provision in fostering coordination among CAVs and achieving system-level goals in smart transportation.
 </div>
 
 - #### Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information
+**Ma, X.** and He, X., 2025. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002736">[Paper]</a>
 
 <img src="/assets/img/research-multiclass info.jpg" alt="photo" width="300" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
-This research proposes a within-day dynamic traffic equilibrium model that explicitly formulates strategic information provision as an endogenous element. The proposed model considers travelers’ reactions to the information, creating an interdependent relationship between provided information and traffic dynamics. In this framework, two classes of travelers receive different types of travel time information: one class receives instantaneous travel time reflecting the prevailing traffic conditions, while the other class receives strategic forecasts of travel times, generated by accounting for travelers’ reactions to instantaneous information based on strategic thinking from behavioral game theory. The resulting multi-class within-day dynamic equilibrium differs from existing models by explicitly modeling information provision and consideration of information consistency. The theoretical propositions and numerical findings offer rich insights into the impact of information on the traffic network, strategic forecast information penetration, and information accuracy. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002736">Read More</a>
+This research proposes a within-day dynamic traffic equilibrium model that explicitly formulates strategic information provision as an endogenous element. The proposed model considers travelers’ reactions to the information, creating an interdependent relationship between provided information and traffic dynamics. In this framework, two classes of travelers receive different types of travel time information: one class receives instantaneous travel time reflecting the prevailing traffic conditions, while the other class receives strategic forecasts of travel times, generated by accounting for travelers’ reactions to instantaneous information based on strategic thinking from behavioral game theory. The resulting multi-class within-day dynamic equilibrium differs from existing models by explicitly modeling information provision and consideration of information consistency. The theoretical propositions and numerical findings offer rich insights into the impact of information on the traffic network, strategic forecast information penetration, and information accuracy.
 </div>
 
 <br>
 ### >> Optimization of urban infrastructure
 
 - #### Optimal on-street parking space allocation for freight, service, and passenger vehicles
+**Ma, X.**, He, X., and Holguin-Veras, J., 2025. Transportmetrica A: Transport Science <a href="https://www.tandfonline.com/doi/abs/10.1080/23249935.2025.2498671">[Paper]</a>
 
 <img src="/assets/img/research-parking.png" alt="photo" width="400" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
-The growing conflict between parking demand and limited curbside space highlights the need for efficient on-street parking management. Freight and service vehicles, in particular, pose high societal costs when parking is unavailable, often leading to double parking, congestion, and safety risks. Given their essential services, prioritizing these vehicles in parking allocation is critical. However, research in this area remains limited. This research proposes an optimization model that allocates on-street parking among passenger cars, freight, and service vehicles, considering their distinct impacts. Using a queuing theory framework, the model ensures parking availability for prioritized vehicles and optimizes car parking time limits. The objective is to minimize negative societal externalities caused by insufficient parking. A case study shows that the model effectively prioritizes freight and service vehicles and adjusts car parking limits to meet the goal, along with rich managerial insights. The model offers planners a flexible tool to balance parking utilization and traffic efficiency. <a href="https://www.tandfonline.com/doi/abs/10.1080/23249935.2025.2498671">Read More</a>
+The growing conflict between parking demand and limited curbside space highlights the need for efficient on-street parking management. Freight and service vehicles, in particular, pose high societal costs when parking is unavailable, often leading to double parking, congestion, and safety risks. Given their essential services, prioritizing these vehicles in parking allocation is critical. However, research in this area remains limited. This research proposes an optimization model that allocates on-street parking among passenger cars, freight, and service vehicles, considering their distinct impacts. Using a queuing theory framework, the model ensures parking availability for prioritized vehicles and optimizes car parking time limits. The objective is to minimize negative societal externalities caused by insufficient parking. A case study shows that the model effectively prioritizes freight and service vehicles and adjusts car parking limits to meet the goal, along with rich managerial insights. The model offers planners a flexible tool to balance parking utilization and traffic efficiency.
 </div>
 
 <br>
 ### >> Management of long-term traffic evolution
 
 - #### Period-to-period toll adjustment schemes for mixed traffic with time-varying electric vehicle penetration
+**Ma, X.** and He, X., 2021. Transportation Research Part C: Emerging Technologies <a href="https://www.sciencedirect.com/science/article/pii/S0968090X21002503">[Paper]</a>
 
 <img src="/assets/img/research-P2P.png" alt="photo" width="500" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
-As electric vehicle (EV) penetration increases, the mixed traffic of EVs and gasoline vehicles (GVs) will be prevalent in roadway systems for a long time. Meanwhile, the periodic EV market growth will cause mixed traffic to evolve from disequilibrium to a new equilibrium. This equilibration is theoretically indeterminate due to the non-uniqueness of mixed traffic equilibria and the dynamic interaction between operational policy and underlying mixed traffic. Such indeterminacy affects the long-term mixed traffic performance that should be factored into the period-to-period adjustment of EV related policies. This research explores the properties of mixed traffic equilibria and proposes a mixed traffic evolution model considering timevarying EV penetration. The model is then integrated into a control framework to support the period-to-period adjustment of EV-promoting tolling policy for achieving long-term system-level goals. <a href="">Read More</a>
+As electric vehicle (EV) penetration increases, the mixed traffic of EVs and gasoline vehicles (GVs) will be prevalent in roadway systems for a long time. Meanwhile, the periodic EV market growth will cause mixed traffic to evolve from disequilibrium to a new equilibrium. This equilibration is theoretically indeterminate due to the non-uniqueness of mixed traffic equilibria and the dynamic interaction between operational policy and underlying mixed traffic. Such indeterminacy affects the long-term mixed traffic performance that should be factored into the period-to-period adjustment of EV related policies. This research explores the properties of mixed traffic equilibria and proposes a mixed traffic evolution model considering timevarying EV penetration. The model is then integrated into a control framework to support the period-to-period adjustment of EV-promoting tolling policy for achieving long-term system-level goals.
 </div>
 
 - #### A day-to-day dynamic evolution model and pricing scheme with bi-objective user equilibrium
+**Ma, X.**, Xu, W. and Chen, C., 2021. Transportmetrica B: Transport Dynamics <a href="https://www.tandfonline.com/doi/full/10.1080/21680566.2020.1851311">[Paper]</a>
 
 <img src="/assets/img/research-d2dBUE.jpg" alt="photo" width="300" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
 <div style="text-align: justify;">
-Travel time and monetary cost are the two important factors influencing travelers’ route choice behavior. Rather than combining them together as a single objective, a bi-objective user equilibrium (BUE) has been proposed in which travelers consider the two objectives separately. It has been shown that BUE can explain more possible route choice results in reality. This research develops a BUE-based day-to-day dynamic model by introducing BUE into the well-known proportional-switch adjustment process (PSAP). The equivalence between the steady state of the evolution process of BUE-PSAP and a BUE state, as well as the convergence of the BUE-PSAP are proved. Moreover, a dynamic pricing scheme is proposed to reduce the system total travel time and shrink the BUE solution set containing non-unique solutions. This research contributes to the modeling of traffic evolution by providing greater explainability of real-world travel behaviors. <a href="https://www.tandfonline.com/doi/full/10.1080/21680566.2020.1851311">Read More</a>
+Travel time and monetary cost are the two important factors influencing travelers’ route choice behavior. Rather than combining them together as a single objective, a bi-objective user equilibrium (BUE) has been proposed in which travelers consider the two objectives separately. It has been shown that BUE can explain more possible route choice results in reality. This research develops a BUE-based day-to-day dynamic model by introducing BUE into the well-known proportional-switch adjustment process (PSAP). The equivalence between the steady state of the evolution process of BUE-PSAP and a BUE state, as well as the convergence of the BUE-PSAP are proved. Moreover, a dynamic pricing scheme is proposed to reduce the system total travel time and shrink the BUE solution set containing non-unique solutions. This research contributes to the modeling of traffic evolution by providing greater explainability of real-world travel behaviors.
 </div>
 
 <br>
