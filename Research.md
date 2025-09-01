@@ -6,7 +6,7 @@ title: Research
 ### >> Advancement of multimodal transportation systems
 
 - #### Joint estimation of dynamic O-D demand and choice models for dynamic multi-modal networks: computational graphs with hypothesis tests
-**Ma, X.** and Qian, S. (Under review with ISTTT26)
+<p style="margin-top: -10px; font-size: 0.9rem;">**Ma, X.** and Qian, S. (Under review with ISTTT26)</p>
 
 <img src="/assets/img/research-dode.png" alt="photo" width="350" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
@@ -17,7 +17,7 @@ This research use system-level data (such as traffic counts, probe speeds, and t
 ### >> Intelligent traffic information provision for system-level goals
 
 - #### Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach
-**Ma, X.** and He, X., 2024. Transportation Research Part B: Methodological (ISTTT25) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383">[Paper]</a>
+<p style="margin-top: -10px; font-size: 0.9rem;">**Ma, X.** and He, X., 2024. Transportation Research Part B: Methodological (ISTTT25) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261524001383">[Paper]</a></p>
 
 <img src="/assets/img/research-isttt25-1.jpg" alt="photo" width="350" style="float: left; margin-right: 20px; border-radius: 28px;" />
 
