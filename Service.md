@@ -19,6 +19,7 @@ title: Service
 - Transportation Research Part C: Emerging Technologies
 - Nature Communications
 - Transportation Research Record
+- Transportmetrica A: Transport Science
 - Transportation Research Interdisciplinary Perspectives
 - Physica A: Statistical Mechanics and its Applications
 - Automotive Innovation
