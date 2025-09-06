@@ -18,10 +18,10 @@ title: Service
 - Transportation Research Part B: Methodological
 - Transportation Research Part C: Emerging Technologies
 - Nature Communications
-- Transportation Research Record
 - Transportmetrica A: Transport Science
 - Transportation Research Interdisciplinary Perspectives
 - Physica A: Statistical Mechanics and its Applications
+- Transportation Research Record
 - Automotive Innovation
 - Cluster Computing
 - Transportation Research Board (TRB) Conference
