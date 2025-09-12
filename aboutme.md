@@ -6,7 +6,7 @@ title: About Me
 
 ### Academic Appointments
 
-- Postdoctoral Research Associate, <a href="https://mac.heinz.cmu.edu/">[Mobility Data Analytics Center (MAC)]</a>, Civil and Environmental Engineering, Carnegie Mellon University, September 2024 - present
+- Postdoctoral Research Associate, <a href="https://mac.heinz.cmu.edu/">Mobility Data Analytics Center (MAC)</a>, Civil and Environmental Engineering, Carnegie Mellon University, September 2024 - present
 
 <br>
 
