@@ -17,6 +17,7 @@ title: Service
 
 - Transportation Research Part B: Methodological
 - Transportation Research Part C: Emerging Technologies
+- Transportation Science
 - Nature Communications
 - Transportmetrica A: Transport Science
 - Transportation Research Interdisciplinary Perspectives
