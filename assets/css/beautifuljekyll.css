@@ -977,10 +977,10 @@ pre {
 }
 
 .callout-box {
-  background-color: #FFFFF0;
+  background-color: #FFF5EE;
   padding: 15px;
   border-radius: 15px;
-  border: 1px solid #FFFFF0;
+  border: 1px solid #FFF5EE;
   margin: 20px 0;
 }
 .callout-box p:last-child {
