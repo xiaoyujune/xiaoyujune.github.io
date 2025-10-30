@@ -15,11 +15,12 @@ title: Service
 
 ### Referee for Journals and Conferences 
 
+- Transportation Science
 - Transportation Research Part B: Methodological
 - Transportation Research Part C: Emerging Technologies
-- Transportation Science
 - Nature Communications
 - Transportmetrica A: Transport Science
+- Transportmetrica B: Transport Dynamics
 - Transportation Research Interdisciplinary Perspectives
 - Physica A: Statistical Mechanics and its Applications
 - Transportation Research Record
