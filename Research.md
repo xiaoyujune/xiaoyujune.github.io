@@ -7,7 +7,7 @@ title: Research
 
 - <strong>Joint estimation of dynamic O-D demand and choice models for dynamic multi-modal networks: computational graphs with hypothesis tests</strong><br>
   <span style="font-size: 1rem; margin-top: -8px; display: inline-block;">
-    <strong>Ma, X.</strong> and Qian, S. (Under review with ISTTT26)
+    <strong>Ma, X.</strong> and Qian, S. (Under review at Transportation Research Part C: Emerging Technologies)
   </span>
 
 <img src="/assets/img/research-dode.png" alt="photo" width="350" style="float: left; margin-right: 20px; border-radius: 28px;" />
