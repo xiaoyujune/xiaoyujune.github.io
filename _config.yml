@@ -264,7 +264,7 @@ date_format: "%B %-d, %Y"
 
 #pagination
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 10
 paginate_path: "mywritings/page:num"
 
 #################################################################################
@@ -276,7 +276,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
